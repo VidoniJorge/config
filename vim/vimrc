@@ -1,0 +1,14 @@
+" General config 
+syntax on
+
+"set showmode
+"set autoindent
+"set expandtab
+
+set number
+set relativenumber
+set tabstop=4 " ttt
+
+"set textwidth=30
+
+colorscheme monokai
