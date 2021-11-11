@@ -2,7 +2,8 @@
 # initial config
 
 # config vim
-ln -s ~/.vimrc ~/config/vim/.vimrc
+mv ~/.vimrc ~/.vimrc.back 
+ln -s  ~/config/vim/vimrc ~/.vimrc      
 
 mkdir ~/.vim
 
