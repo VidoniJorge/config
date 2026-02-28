@@ -5,6 +5,7 @@ MASTER_LIST=(
     "BASIC|Homebrew|manual|check_and_install_brew"
     "BASIC|GitHub CLI|brew|gh"
     "IDE|Visual Studio Code|cask|visual-studio-code"
+    "IDE|Google Cloud Antigravity|cask|google-cloud-sdk"
     "PYTHON|Python 3.13|brew|python@3.13"
     "PYTHON|uv|brew|uv"
     "SYSTEM|Configuraciones de macOS|manual|apply_macos_settings"
